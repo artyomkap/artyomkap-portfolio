@@ -1,4 +1,7 @@
-# React + Vite
+# My personal portfolio on React
+
+This is the website which is made on React + Vite plugin and contains the most modern website technologies. It contains information about me, my experience and contact information.
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
