@@ -18,7 +18,7 @@ export const About = () => {
         <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
         <div className="flex justify-center mb-6 overflow-hidden">
           <img 
-            src="/src/assets/123213131zxcq.png" 
+            src="/assets/123213131qeqweq.jpg" 
             className="w-60 h-60 rounded-full shadow-lg object-cover"
           />
         </div>
